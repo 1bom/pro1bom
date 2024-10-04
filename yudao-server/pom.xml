@@ -94,7 +94,7 @@
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
-        <!-- ERP 相关模块。默认注释，保证编译速度 -->
+<!--        &lt;!&ndash; ERP 相关模块。默认注释，保证编译速度 &ndash;&gt;-->
 <!--        <dependency>-->
 <!--            <groupId>cn.iocoder.boot</groupId>-->
 <!--            <artifactId>yudao-module-erp-biz</artifactId>-->
